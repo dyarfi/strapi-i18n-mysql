@@ -12,6 +12,7 @@ module.exports = ({ env }) => ({
     },
     options: {
       charset: "utf8mb4_unicode_ci",
+      debug: true,
     },
   },
 });
