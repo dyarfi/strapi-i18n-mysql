@@ -9,14 +9,12 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {
-    "slugify": "^1.6.5"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-graphql": "4.1.9",
-    "@strapi/plugin-i18n": "4.1.9",
-    "@strapi/plugin-users-permissions": "4.1.9",
-    "@strapi/strapi": "4.1.9",
+    "@strapi/plugin-graphql": "4.1.10",
+    "@strapi/plugin-i18n": "4.1.1",
+    "@strapi/plugin-users-permissions": "4.1.10",
+    "@strapi/strapi": "4.1.10",
     "mysql": "2.18.1"
   },
   "author": {
